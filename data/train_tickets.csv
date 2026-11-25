@@ -1,0 +1,367 @@
+ticket_id,text,category,urgency,template_id
+T0001,"Dear support, My invoice for March shows Rs 499 but I expected a lower price. Can you explain the charges? Waiting for your reply.",Billing & Payments,Medium,BP01
+T0002,"Dear support, My invoice for November shows $29.99 but I expected a lower price. Can you explain the charges?",Billing & Payments,Medium,BP01
+T0003,"Hello, My invoice for June shows Rs 2,450 but I expected a lower price. Can you explain the charges? Please help.",Billing & Payments,Medium,BP01
+T0004,"Hi team, My invoice for June shows EUR 15 but I expected a lower price. Can you explain the charges? Please help.",Billing & Payments,Medium,BP01
+T0005,"hi team, my invoice for september shows rs 1,299 but i expected a lower price. can you explain the charges? please help.",Billing & Payments,Medium,BP01
+T0006,"my invoice for june shows rs 499 but i expected a lower price. can you explain the charges? regards, asha",Billing & Payments,Medium,BP01
+T0007,"Good morning, I was charged twice for my Basic plan today and the money has left my bank account. Please fix this immediately. Please help.",Billing & Payments,High,BP02
+T0008,"Good morning, I was charged twice for my Basic plan today and the money has left my bank account. Please fix this immediately. Regards, Asha",Billing & Payments,High,BP02
+T0009,"Hello, I was charged twice for my Basic plan today and the money has left my bank account. Please fix this immediately. Waiting for your reply",Billing & Payments,High,BP02
+T0010,"Hello, I was charged twice for my Premium plan today and the money has left my bank account. Please fix this immediately. Thanks.",Billing & Payments,High,BP02
+T0011,"Hi team, I was charged twice for my Premium plan today and the money has left my bank account. Please fix this immediately. Regards, Asha",Billing & Payments,High,BP02
+T0012,"good morning, i was charged twice for my pro plan today and the money has left my bank account. please fix this immediately. please help.",Billing & Payments,High,BP02
+T0013,"Dear support, Could you send me a copy of last month's invoice for my accounts department? Thanks.",Billing & Payments,Low,BP03
+T0014,"Good morning, Could you send me a copy of last month's invoice for my accounts department? Regards, Asha",Billing & Payments,Low,BP03
+T0015,"Hello, Could you send me a copy of last month's invoice for my accounts department? Please help.",Billing & Payments,Low,BP03
+T0016,"Hello, Could you send me a copy of last month's invoice for my accounts department? Waiting for your reply.",Billing & Payments,Low,BP03
+T0017,"Hi team, Could you send me a copy of last month's invoice for my accounts department? Please help.",Billing & Payments,Low,BP03
+T0018,"dear support, could you send me a copy of last month's invoice for my accounts department? thanks.",Billing & Payments,Low,BP03
+T0019,"Good morning, How do I update the credit card used for my Basic subscription? Thanks.",Billing & Payments,Low,BP04
+T0020,"Good morning, How do I update the credit card used for my Pro subscription? Please help.",Billing & Payments,Low,BP04
+T0021,"Hello, How do I update the credit card used for my Premium subscription? Thanks.",Billing & Payments,Low,BP04
+T0022,How do I update the credit card used for my Basic subscription? Thanks.,Billing & Payments,Low,BP04
+T0023,How do I update the credit card used for my Premium subscription? Waiting for your reply.,Billing & Payments,Low,BP04
+T0024,"good morning, how do i update the credit card used for my pro subscription? thanks.",Billing & Payments,Low,BP04
+T0025,"Dear support, The tax line on my invoice looks wrong. We need a corrected GST invoice before the filing date on Friday.",Billing & Payments,Medium,BP05
+T0026,"Dear support, The tax line on my invoice looks wrong. We need a corrected GST invoice before the filing date on Friday. Thanks",Billing & Payments,Medium,BP05
+T0027,"Good morning, The tax line on my invoice looks wrong. We need a corrected GST invoice before the filing date on Friday. Regards, Asha",Billing & Payments,Medium,BP05
+T0028,"Good morning, The tax line on my invoice looks wrong. We need a corrected GST invoice before the filing date on Friday. Thanks.",Billing & Payments,Medium,BP05
+T0029,The tax line on my invoice looks wrong. We need a corrected GST invoice before the filing date on Friday,Billing & Payments,Medium,BP05
+T0030,"the tax line on my invoice looks wrong. we need a corrected gst invoice before the filing date on friday. regards, asha",Billing & Payments,Medium,BP05
+T0031,"Dear support, Payment failed at checkout even though my card works elsewhere. I need to complete this order today. Waiting for your reply.",Billing & Payments,Medium,BP06
+T0032,"Good morning, Payment failed at checkout even though my card works elsewhere. I need to complete this order today.",Billing & Payments,Medium,BP06
+T0033,"Hello, Payment failed at checkout even though my card works elsewhere. I need to complete this order today. Thanks.",Billing & Payments,Medium,BP06
+T0034,"Hi team, Payment failed at checkout even though my card works elsewhere. I need to complete this order today. Thanks",Billing & Payments,Medium,BP06
+T0035,Payment failed at checkout even though my card works elsewhere. I need to complete this order today. Please help.,Billing & Payments,Medium,BP06
+T0036,"hi team, payment failed at checkout even though my card works elsewhere. i need to complete this order today. regards, asha",Billing & Payments,Medium,BP06
+T0037,"Good morning, I see an unknown charge of EUR 15 on my statement from your company. I think my card was used without permission. Please help.",Billing & Payments,High,BP07
+T0038,"Good morning, I see an unknown charge of Rs 1,299 on my statement from your company. I think my card was used without permission. Regards, Asha",Billing & Payments,High,BP07
+T0039,"Good morning, I see an unknown charge of Rs 499 on my statement from your company. I think my card was used without permission. Regards, Asha",Billing & Payments,High,BP07
+T0040,"Hi team, I see an unknown charge of $29.99 on my statement from your company. I think my card was used without permission. Waiting for your reply.",Billing & Payments,High,BP07
+T0041,I see an unknown charge of $29.99 on my statement from your company. I think my card was used without permission. Please help.,Billing & Payments,High,BP07
+T0042,"hello, i see an unknown charge of $29.99 on my statement from your company. i think my card was used without permission. waiting for your reply.",Billing & Payments,High,BP07
+T0043,"Dear support, Please change my billing cycle from monthly to yearly. No rush. Thanks.",Billing & Payments,Low,BP08
+T0044,"Good morning, Please change my billing cycle from monthly to yearly. No rush. Thanks.",Billing & Payments,Low,BP08
+T0045,"Good morning, Please change my billing cycle from monthly to yearly. No rush. Waiting for your reply.",Billing & Payments,Low,BP08
+T0046,"Hello, Please change my billing cycle from monthly to yearly. No rush. Thanks",Billing & Payments,Low,BP08
+T0047,"Hi team, Please change my billing cycle from monthly to yearly. No rush. Thanks.",Billing & Payments,Low,BP08
+T0048,"Hi team, Please change my billing cycle from monthly to yearly. No rush. Waiting for your reply.",Billing & Payments,Low,BP08
+T0049,"Dear support, My auto-renewal payment was declined and my account will be suspended tomorrow unless I pay.",Billing & Payments,High,BP09
+T0050,"Dear support, My auto-renewal payment was declined and my account will be suspended tomorrow unless I pay. Regards, Asha",Billing & Payments,High,BP09
+T0051,"Good morning, My auto-renewal payment was declined and my account will be suspended tomorrow unless I pay. Regards, Asha",Billing & Payments,High,BP09
+T0052,"Hi team, My auto-renewal payment was declined and my account will be suspended tomorrow unless I pay.",Billing & Payments,High,BP09
+T0053,My auto-renewal payment was declined and my account will be suspended tomorrow unless I pay. Please help.,Billing & Payments,High,BP09
+T0054,My auto-renewal payment was declined and my account will be suspended tomorrow unless I pay. Waiting for your reply.,Billing & Payments,High,BP09
+T0055,"Dear support, Where can I find the bank details for paying by bank transfer?",Billing & Payments,Low,BP10
+T0056,"Dear support, Where can I find the bank details for paying by bank transfer? Waiting for your reply.",Billing & Payments,Low,BP10
+T0057,"Good morning, Where can I find the bank details for paying by bank transfer? Please help.",Billing & Payments,Low,BP10
+T0058,"Hi team, Where can I find the bank details for paying by bank transfer? Regards, Asha",Billing & Payments,Low,BP10
+T0059,"Where can I find the bank details for paying by bank transfer? Regards, Asha",Billing & Payments,Low,BP10
+T0060,"where can i find the bank details for paying by bank transfer? regards, asha",Billing & Payments,Low,BP10
+T0061,"Good morning, The app crashes every time I open the reports page. It happens on both my laptop and phone.",Technical Issue,Medium,TI01
+T0062,"Good morning, The app crashes every time I open the reports page. It happens on both my laptop and phone. Regards, Asha",Technical Issue,Medium,TI01
+T0063,"Good morning, The app crashes every time I open the reports page. It happens on both my laptop and phone. Waiting for your reply.",Technical Issue,Medium,TI01
+T0064,"Hello, The app crashes every time I open the reports page. It happens on both my laptop and phone. Please help.",Technical Issue,Medium,TI01
+T0065,"Hello, The app crashes every time I open the reports page. It happens on both my laptop and phone. Waiting for your reply.",Technical Issue,Medium,TI01
+T0066,"Hi team, The app crashes every time I open the reports page. It happens on both my laptop and phone. Waiting for your reply.",Technical Issue,Medium,TI01
+T0067,"Dear support, Our whole team cannot use the dashboard right now. It shows a server error 500 and we have a client demo in an hour. Waiting for your reply.",Technical Issue,High,TI02
+T0068,"Hi team, Our whole team cannot use the dashboard right now. It shows a server error 500 and we have a client demo in an hour. Waiting for your reply.",Technical Issue,High,TI02
+T0069,Our whole team cannot use the dashboard right now. It shows a server error 500 and we have a client demo in an hour,Technical Issue,High,TI02
+T0070,Our whole team cannot use the dashboard right now. It shows a server error 500 and we have a client demo in an hour.,Technical Issue,High,TI02
+T0071,"Our whole team cannot use the dashboard right now. It shows a server error 500 and we have a client demo in an hour. Regards, Asha",Technical Issue,High,TI02
+T0072,"hi team, our whole team cannot use the dashboard right now. it shows a server error 500 and we have a client demo in an hour. please help.",Technical Issue,High,TI02
+T0073,"Dear support, How can I export my data to a CSV file? I could not find the option. Regards, Asha",Technical Issue,Low,TI03
+T0074,"Hello, How can I export my data to a CSV file? I could not find the option. Thanks.",Technical Issue,Low,TI03
+T0075,"Hi team, How can I export my data to a CSV file? I could not find the option. Please help.",Technical Issue,Low,TI03
+T0076,"Hi team, How can I export my data to a CSV file? I could not find the option. Thanks",Technical Issue,Low,TI03
+T0077,"How can I export my data to a CSV file? I could not find the option. Regards, Asha",Technical Issue,Low,TI03
+T0078,"how can i export my data to a csv file? i could not find the option. regards, asha",Technical Issue,Low,TI03
+T0079,"Good morning, The mobile app is slow when loading images but it still works. Thanks",Technical Issue,Low,TI04
+T0080,"Hello, The mobile app is slow when loading images but it still works.",Technical Issue,Low,TI04
+T0081,"Hello, The mobile app is slow when loading images but it still works. Please help.",Technical Issue,Low,TI04
+T0082,"Hi team, The mobile app is slow when loading images but it still works",Technical Issue,Low,TI04
+T0083,"Hi team, The mobile app is slow when loading images but it still works. Regards, Asha",Technical Issue,Low,TI04
+T0084,"good morning, the mobile app is slow when loading images but it still works. waiting for your reply.",Technical Issue,Low,TI04
+T0085,"Dear support, Notifications stopped arriving after the latest update. Please investigate when you can. Regards, Asha",Technical Issue,Medium,TI05
+T0086,"Dear support, Notifications stopped arriving after the latest update. Please investigate when you can. Waiting for your reply.",Technical Issue,Medium,TI05
+T0087,"Good morning, Notifications stopped arriving after the latest update. Please investigate when you can. Please help.",Technical Issue,Medium,TI05
+T0088,"Hi team, Notifications stopped arriving after the latest update. Please investigate when you can",Technical Issue,Medium,TI05
+T0089,"good morning, notifications stopped arriving after the latest update. please investigate when you can. thanks.",Technical Issue,Medium,TI05
+T0090,"hi team, notifications stopped arriving after the latest update. please investigate when you can. waiting for your reply.",Technical Issue,Medium,TI05
+T0091,"Dear support, The API returns a timeout error for all requests since this morning and our production service depends on it.",Technical Issue,High,TI06
+T0092,"Hello, The API returns a timeout error for all requests since this morning and our production service depends on it.",Technical Issue,High,TI06
+T0093,"Hello, The API returns a timeout error for all requests since this morning and our production service depends on it. Regards, Asha",Technical Issue,High,TI06
+T0094,"Hello, The API returns a timeout error for all requests since this morning and our production service depends on it. Waiting for your reply",Technical Issue,High,TI06
+T0095,"Hi team, The API returns a timeout error for all requests since this morning and our production service depends on it.",Technical Issue,High,TI06
+T0096,The API returns a timeout error for all requests since this morning and our production service depends on it. Thanks.,Technical Issue,High,TI06
+T0097,"Dear support, The search feature returns no results for anything I type, although everything else works. Please help",Technical Issue,Medium,TI07
+T0098,"Dear support, The search feature returns no results for anything I type, although everything else works. Please help.",Technical Issue,Medium,TI07
+T0099,"Good morning, The search feature returns no results for anything I type, although everything else works.",Technical Issue,Medium,TI07
+T0100,"Good morning, The search feature returns no results for anything I type, although everything else works. Waiting for your reply.",Technical Issue,Medium,TI07
+T0101,"good morning, the search feature returns no results for anything i type, although everything else works.",Technical Issue,Medium,TI07
+T0102,"hello, the search feature returns no results for anything i type, although everything else works. regards, asha",Technical Issue,Medium,TI07
+T0103,"Dear support, I would like to know whether the Chat software supports dark mode. Waiting for your reply.",Technical Issue,Low,TI08
+T0104,"Good morning, I would like to know whether the Notes software supports dark mode.",Technical Issue,Low,TI08
+T0105,"Hi team, I would like to know whether the Planner software supports dark mode. Regards, Asha",Technical Issue,Low,TI08
+T0106,"I would like to know whether the Planner software supports dark mode. Regards, Asha",Technical Issue,Low,TI08
+T0107,I would like to know whether the Reports software supports dark mode. Please help.,Technical Issue,Low,TI08
+T0108,I would like to know whether the Reports software supports dark mode. Thanks,Technical Issue,Low,TI08
+T0109,File uploads fail with an unknown error and I cannot submit my assignment before the deadline tonight,Technical Issue,High,TI09
+T0110,File uploads fail with an unknown error and I cannot submit my assignment before the deadline tonight.,Technical Issue,High,TI09
+T0111,File uploads fail with an unknown error and I cannot submit my assignment before the deadline tonight. Waiting for your reply.,Technical Issue,High,TI09
+T0112,"Good morning, File uploads fail with an unknown error and I cannot submit my assignment before the deadline tonight. Waiting for your reply",Technical Issue,High,TI09
+T0113,"Hello, File uploads fail with an unknown error and I cannot submit my assignment before the deadline tonight. Regards, Asha",Technical Issue,High,TI09
+T0114,"dear support, file uploads fail with an unknown error and i cannot submit my assignment before the deadline tonight. thanks.",Technical Issue,High,TI09
+T0115,"Dear support, The text on the settings page is cut off on my small phone screen. Regards, Asha",Technical Issue,Low,TI10
+T0116,"Dear support, The text on the settings page is cut off on my small phone screen. Thanks.",Technical Issue,Low,TI10
+T0117,"Good morning, The text on the settings page is cut off on my small phone screen. Please help.",Technical Issue,Low,TI10
+T0118,"Hello, The text on the settings page is cut off on my small phone screen. Please help",Technical Issue,Low,TI10
+T0119,"The text on the settings page is cut off on my small phone screen. Regards, Asha",Technical Issue,Low,TI10
+T0120,The text on the settings page is cut off on my small phone screen. Thanks.,Technical Issue,Low,TI10
+T0121,"Good morning, I forgot my password and the reset email is not coming to my inbox.",Account Access,Medium,AA01
+T0122,"Good morning, I forgot my password and the reset email is not coming to my inbox. Please help.",Account Access,Medium,AA01
+T0123,I forgot my password and the reset email is not coming to my inbox. Thanks.,Account Access,Medium,AA01
+T0124,I forgot my password and the reset email is not coming to my inbox. Waiting for your reply,Account Access,Medium,AA01
+T0125,"good morning, i forgot my password and the reset email is not coming to my inbox. please help",Account Access,Medium,AA01
+T0126,"hello, i forgot my password and the reset email is not coming to my inbox. please help.",Account Access,Medium,AA01
+T0127,"Good morning, My account has been locked after too many attempts and I cannot get in to finish urgent work. Regards, Asha",Account Access,High,AA02
+T0128,"Hello, My account has been locked after too many attempts and I cannot get in to finish urgent work",Account Access,High,AA02
+T0129,"Hello, My account has been locked after too many attempts and I cannot get in to finish urgent work. Thanks.",Account Access,High,AA02
+T0130,"Hello, My account has been locked after too many attempts and I cannot get in to finish urgent work. Waiting for your reply",Account Access,High,AA02
+T0131,"Hi team, My account has been locked after too many attempts and I cannot get in to finish urgent work",Account Access,High,AA02
+T0132,"Hi team, My account has been locked after too many attempts and I cannot get in to finish urgent work. Please help.",Account Access,High,AA02
+T0133,"Dear support, I want to change the email address linked to my profile. Waiting for your reply",Account Access,Low,AA03
+T0134,"Good morning, I want to change the email address linked to my profile. Regards, Asha",Account Access,Low,AA03
+T0135,"Good morning, I want to change the email address linked to my profile. Thanks.",Account Access,Low,AA03
+T0136,"Hello, I want to change the email address linked to my profile. Please help.",Account Access,Low,AA03
+T0137,"Hello, I want to change the email address linked to my profile. Waiting for your reply.",Account Access,Low,AA03
+T0138,"hi team, i want to change the email address linked to my profile. thanks.",Account Access,Low,AA03
+T0139,"Good morning, Someone logged into my account from another country. I did not do this and I need it secured right now. Regards, Asha",Account Access,High,AA04
+T0140,"Hello, Someone logged into my account from another country. I did not do this and I need it secured right now.",Account Access,High,AA04
+T0141,"Hi team, Someone logged into my account from another country. I did not do this and I need it secured right now. Please help.",Account Access,High,AA04
+T0142,Someone logged into my account from another country. I did not do this and I need it secured right now. Thanks.,Account Access,High,AA04
+T0143,"hi team, someone logged into my account from another country. i did not do this and i need it secured right now. regards, asha",Account Access,High,AA04
+T0144,someone logged into my account from another country. i did not do this and i need it secured right now. waiting for your reply.,Account Access,High,AA04
+T0145,"Good morning, The two-factor authentication code is not being accepted on my new phone.",Account Access,Medium,AA05
+T0146,"Good morning, The two-factor authentication code is not being accepted on my new phone. Waiting for your reply.",Account Access,Medium,AA05
+T0147,"Hello, The two-factor authentication code is not being accepted on my new phone. Thanks",Account Access,Medium,AA05
+T0148,"Hi team, The two-factor authentication code is not being accepted on my new phone. Regards, Asha",Account Access,Medium,AA05
+T0149,"The two-factor authentication code is not being accepted on my new phone. Regards, Asha",Account Access,Medium,AA05
+T0150,"dear support, the two-factor authentication code is not being accepted on my new phone. regards, asha",Account Access,Medium,AA05
+T0151,"Dear support, How do I add a new team member to our workspace? Please help",Account Access,Low,AA06
+T0152,"Good morning, How do I add a new team member to our workspace? Please help.",Account Access,Low,AA06
+T0153,"Good morning, How do I add a new team member to our workspace? Thanks",Account Access,Low,AA06
+T0154,"Good morning, How do I add a new team member to our workspace? Waiting for your reply.",Account Access,Low,AA06
+T0155,How do I add a new team member to our workspace? Please help.,Account Access,Low,AA06
+T0156,"hello, how do i add a new team member to our workspace? waiting for your reply.",Account Access,Low,AA06
+T0157,"Hello, Please delete my account and all my personal data. Waiting for your reply.",Account Access,Medium,AA07
+T0158,"Hi team, Please delete my account and all my personal data. Thanks",Account Access,Medium,AA07
+T0159,"Please delete my account and all my personal data. Regards, Asha",Account Access,Medium,AA07
+T0160,Please delete my account and all my personal data. Thanks.,Account Access,Medium,AA07
+T0161,Please delete my account and all my personal data. Waiting for your reply.,Account Access,Medium,AA07
+T0162,"good morning, please delete my account and all my personal data. thanks.",Account Access,Medium,AA07
+T0163,"Dear support, My username shows the wrong name. How can I correct it?",Account Access,Low,AA08
+T0164,"Dear support, My username shows the wrong name. How can I correct it? Please help.",Account Access,Low,AA08
+T0165,"Dear support, My username shows the wrong name. How can I correct it? Waiting for your reply",Account Access,Low,AA08
+T0166,"Good morning, My username shows the wrong name. How can I correct it?",Account Access,Low,AA08
+T0167,"Hello, My username shows the wrong name. How can I correct it? Please help.",Account Access,Low,AA08
+T0168,"Hi team, My username shows the wrong name. How can I correct it? Regards, Asha",Account Access,Low,AA08
+T0169,"Good morning, I get an invalid credentials message even though I am sure my password is correct. It has been two days.",Account Access,Medium,AA09
+T0170,"Good morning, I get an invalid credentials message even though I am sure my password is correct. It has been two days. Please help.",Account Access,Medium,AA09
+T0171,"Hello, I get an invalid credentials message even though I am sure my password is correct. It has been two days. Waiting for your reply.",Account Access,Medium,AA09
+T0172,"Hi team, I get an invalid credentials message even though I am sure my password is correct. It has been two days. Please help.",Account Access,Medium,AA09
+T0173,"dear support, i get an invalid credentials message even though i am sure my password is correct. it has been two days. please help.",Account Access,Medium,AA09
+T0174,"good morning, i get an invalid credentials message even though i am sure my password is correct. it has been two days.",Account Access,Medium,AA09
+T0175,"Dear support, I cannot sign in with my company single sign-on and the whole department is blocked. Regards, Asha",Account Access,High,AA10
+T0176,"Dear support, I cannot sign in with my company single sign-on and the whole department is blocked. Waiting for your reply",Account Access,High,AA10
+T0177,"Hi team, I cannot sign in with my company single sign-on and the whole department is blocked. Waiting for your reply.",Account Access,High,AA10
+T0178,I cannot sign in with my company single sign-on and the whole department is blocked. Please help,Account Access,High,AA10
+T0179,"I cannot sign in with my company single sign-on and the whole department is blocked. Regards, Asha",Account Access,High,AA10
+T0180,I cannot sign in with my company single sign-on and the whole department is blocked. Thanks.,Account Access,High,AA10
+T0181,"Dear support, My order ORD-1042 was supposed to arrive last Monday and tracking has not updated for five days. Thanks.",Shipping & Delivery,Medium,SD01
+T0182,"Dear support, My order ORD-3381 was supposed to arrive last Monday and tracking has not updated for five days. Thanks",Shipping & Delivery,Medium,SD01
+T0183,"Hello, My order ORD-8826 was supposed to arrive last Monday and tracking has not updated for five days. Regards, Asha",Shipping & Delivery,Medium,SD01
+T0184,"Hi team, My order ORD-5710 was supposed to arrive last Monday and tracking has not updated for five days. Please help.",Shipping & Delivery,Medium,SD01
+T0185,"Hi team, My order ORD-5710 was supposed to arrive last Monday and tracking has not updated for five days. Regards, Asha",Shipping & Delivery,Medium,SD01
+T0186,"hi team, my order ord-8826 was supposed to arrive last monday and tracking has not updated for five days. please help.",Shipping & Delivery,Medium,SD01
+T0187,"Good morning, The parcel for order ORD-3381 shows delivered but I never received it. Thanks.",Shipping & Delivery,Medium,SD02
+T0188,"Hello, The parcel for order ORD-5710 shows delivered but I never received it. Waiting for your reply.",Shipping & Delivery,Medium,SD02
+T0189,"Hi team, The parcel for order ORD-1042 shows delivered but I never received it. Thanks.",Shipping & Delivery,Medium,SD02
+T0190,"Hi team, The parcel for order ORD-5710 shows delivered but I never received it. Regards, Asha",Shipping & Delivery,Medium,SD02
+T0191,The parcel for order ORD-5710 shows delivered but I never received it.,Shipping & Delivery,Medium,SD02
+T0192,The parcel for order ORD-8826 shows delivered but I never received it. Please help.,Shipping & Delivery,Medium,SD02
+T0193,"Dear support, Can I change the delivery address for my order ORD-8826? It has not shipped yet.",Shipping & Delivery,Medium,SD03
+T0194,"Hello, Can I change the delivery address for my order ORD-1042? It has not shipped yet. Thanks.",Shipping & Delivery,Medium,SD03
+T0195,"Hello, Can I change the delivery address for my order ORD-3381? It has not shipped yet. Please help.",Shipping & Delivery,Medium,SD03
+T0196,"Hi team, Can I change the delivery address for my order ORD-5710? It has not shipped yet. Waiting for your reply.",Shipping & Delivery,Medium,SD03
+T0197,can i change the delivery address for my order ord-8826? it has not shipped yet. waiting for your reply.,Shipping & Delivery,Medium,SD03
+T0198,"dear support, can i change the delivery address for my order ord-1042? it has not shipped yet. regards, asha",Shipping & Delivery,Medium,SD03
+T0199,"Good morning, What are your delivery charges to Ahmedabad? Please help",Shipping & Delivery,Low,SD04
+T0200,"Good morning, What are your delivery charges to Jaipur?",Shipping & Delivery,Low,SD04
+T0201,"Good morning, What are your delivery charges to Pune?",Shipping & Delivery,Low,SD04
+T0202,"Hello, What are your delivery charges to Pune?",Shipping & Delivery,Low,SD04
+T0203,"Hi team, What are your delivery charges to Jaipur?",Shipping & Delivery,Low,SD04
+T0204,What are your delivery charges to Ahmedabad?,Shipping & Delivery,Low,SD04
+T0205,"Dear support, The package arrived with a broken box and the item inside is damaged. Thanks.",Shipping & Delivery,Medium,SD05
+T0206,"Dear support, The package arrived with a broken box and the item inside is damaged. Waiting for your reply.",Shipping & Delivery,Medium,SD05
+T0207,"Good morning, The package arrived with a broken box and the item inside is damaged. Regards, Asha",Shipping & Delivery,Medium,SD05
+T0208,"Hello, The package arrived with a broken box and the item inside is damaged. Waiting for your reply.",Shipping & Delivery,Medium,SD05
+T0209,"Hi team, The package arrived with a broken box and the item inside is damaged. Please help.",Shipping & Delivery,Medium,SD05
+T0210,The package arrived with a broken box and the item inside is damaged. Waiting for your reply,Shipping & Delivery,Medium,SD05
+T0211,"Good morning, I need my order ORD-3381 by tomorrow for a medical appointment and it is still not dispatched. Regards, Asha",Shipping & Delivery,High,SD06
+T0212,"Good morning, I need my order ORD-8826 by tomorrow for a medical appointment and it is still not dispatched. Please help.",Shipping & Delivery,High,SD06
+T0213,"Hello, I need my order ORD-3381 by tomorrow for a medical appointment and it is still not dispatched. Regards, Asha",Shipping & Delivery,High,SD06
+T0214,"Hello, I need my order ORD-8826 by tomorrow for a medical appointment and it is still not dispatched. Waiting for your reply.",Shipping & Delivery,High,SD06
+T0215,"Hi team, I need my order ORD-5710 by tomorrow for a medical appointment and it is still not dispatched.",Shipping & Delivery,High,SD06
+T0216,"Hi team, I need my order ORD-8826 by tomorrow for a medical appointment and it is still not dispatched. Regards, Asha",Shipping & Delivery,High,SD06
+T0217,"Do you ship internationally and how long does it usually take? Regards, Asha",Shipping & Delivery,Low,SD07
+T0218,"Good morning, Do you ship internationally and how long does it usually take? Waiting for your reply",Shipping & Delivery,Low,SD07
+T0219,"Good morning, Do you ship internationally and how long does it usually take? Waiting for your reply.",Shipping & Delivery,Low,SD07
+T0220,"do you ship internationally and how long does it usually take? regards, asha",Shipping & Delivery,Low,SD07
+T0221,do you ship internationally and how long does it usually take? waiting for your reply.,Shipping & Delivery,Low,SD07
+T0222,"hello, do you ship internationally and how long does it usually take? thanks.",Shipping & Delivery,Low,SD07
+T0223,"Dear support, The courier left my parcel with a neighbour I do not know. Please confirm where it is.",Shipping & Delivery,Medium,SD08
+T0224,"Good morning, The courier left my parcel with a neighbour I do not know. Please confirm where it is.",Shipping & Delivery,Medium,SD08
+T0225,"Hello, The courier left my parcel with a neighbour I do not know. Please confirm where it is. Waiting for your reply.",Shipping & Delivery,Medium,SD08
+T0226,The courier left my parcel with a neighbour I do not know. Please confirm where it is. Please help.,Shipping & Delivery,Medium,SD08
+T0227,"dear support, the courier left my parcel with a neighbour i do not know. please confirm where it is. please help.",Shipping & Delivery,Medium,SD08
+T0228,"hi team, the courier left my parcel with a neighbour i do not know. please confirm where it is",Shipping & Delivery,Medium,SD08
+T0229,"Dear support, I received the wrong item in my order ORD-3381. I ordered a blue one and got a red one. Regards, Asha",Shipping & Delivery,Medium,SD09
+T0230,"Good morning, I received the wrong item in my order ORD-5710. I ordered a blue one and got a red one.",Shipping & Delivery,Medium,SD09
+T0231,"Hi team, I received the wrong item in my order ORD-3381. I ordered a blue one and got a red one. Please help.",Shipping & Delivery,Medium,SD09
+T0232,I received the wrong item in my order ORD-1042. I ordered a blue one and got a red one. Please help.,Shipping & Delivery,Medium,SD09
+T0233,I received the wrong item in my order ORD-5710. I ordered a blue one and got a red one. Please help.,Shipping & Delivery,Medium,SD09
+T0234,"hi team, i received the wrong item in my order ord-3381. i ordered a blue one and got a red one. please help.",Shipping & Delivery,Medium,SD09
+T0235,"Dear support, Perishable goods in my order ORD-1042 are stuck at a depot and will spoil today.",Shipping & Delivery,High,SD10
+T0236,"Dear support, Perishable goods in my order ORD-8826 are stuck at a depot and will spoil today. Regards, Asha",Shipping & Delivery,High,SD10
+T0237,"Good morning, Perishable goods in my order ORD-8826 are stuck at a depot and will spoil today. Regards, Asha",Shipping & Delivery,High,SD10
+T0238,"Hello, Perishable goods in my order ORD-5710 are stuck at a depot and will spoil today. Please help.",Shipping & Delivery,High,SD10
+T0239,"Hi team, Perishable goods in my order ORD-1042 are stuck at a depot and will spoil today. Please help.",Shipping & Delivery,High,SD10
+T0240,"Hi team, Perishable goods in my order ORD-5710 are stuck at a depot and will spoil today. Please help.",Shipping & Delivery,High,SD10
+T0241,"Dear support, I want to cancel my Basic subscription before it renews next week. Waiting for your reply.",Refund & Cancellation,Medium,RC01
+T0242,"Dear support, I want to cancel my Starter subscription before it renews next week. Thanks.",Refund & Cancellation,Medium,RC01
+T0243,"Good morning, I want to cancel my Basic subscription before it renews next week. Thanks.",Refund & Cancellation,Medium,RC01
+T0244,"Hello, I want to cancel my Pro subscription before it renews next week.",Refund & Cancellation,Medium,RC01
+T0245,"Hello, I want to cancel my Starter subscription before it renews next week. Thanks.",Refund & Cancellation,Medium,RC01
+T0246,i want to cancel my basic subscription before it renews next week.,Refund & Cancellation,Medium,RC01
+T0247,"Dear support, Please refund my order ORD-3381; the product does not match the description. Regards, Asha",Refund & Cancellation,Medium,RC02
+T0248,"Dear support, Please refund my order ORD-5710; the product does not match the description.",Refund & Cancellation,Medium,RC02
+T0249,"Dear support, Please refund my order ORD-5710; the product does not match the description. Thanks",Refund & Cancellation,Medium,RC02
+T0250,"Good morning, Please refund my order ORD-8826; the product does not match the description. Thanks.",Refund & Cancellation,Medium,RC02
+T0251,"Hi team, Please refund my order ORD-8826; the product does not match the description. Please help.",Refund & Cancellation,Medium,RC02
+T0252,Please refund my order ORD-1042; the product does not match the description. Thanks,Refund & Cancellation,Medium,RC02
+T0253,"Dear support, How long does a refund take to reach my bank account?",Refund & Cancellation,Low,RC03
+T0254,"Dear support, How long does a refund take to reach my bank account? Thanks",Refund & Cancellation,Low,RC03
+T0255,"Dear support, How long does a refund take to reach my bank account? Thanks.",Refund & Cancellation,Low,RC03
+T0256,"Dear support, How long does a refund take to reach my bank account? Waiting for your reply",Refund & Cancellation,Low,RC03
+T0257,"Hello, How long does a refund take to reach my bank account? Please help.",Refund & Cancellation,Low,RC03
+T0258,How long does a refund take to reach my bank account? Waiting for your reply,Refund & Cancellation,Low,RC03
+T0259,"Good morning, What is your return policy for opened items? Please help.",Refund & Cancellation,Low,RC04
+T0260,"Good morning, What is your return policy for opened items? Thanks.",Refund & Cancellation,Low,RC04
+T0261,What is your return policy for opened items? Waiting for your reply.,Refund & Cancellation,Low,RC04
+T0262,"good morning, what is your return policy for opened items? waiting for your reply.",Refund & Cancellation,Low,RC04
+T0263,"hi team, what is your return policy for opened items? thanks.",Refund & Cancellation,Low,RC04
+T0264,what is your return policy for opened items?,Refund & Cancellation,Low,RC04
+T0265,"Dear support, I cancelled my order two weeks ago and still have not received my refund of Rs 2,450. Thanks.",Refund & Cancellation,Medium,RC05
+T0266,"Hello, I cancelled my order two weeks ago and still have not received my refund of $29.99.",Refund & Cancellation,Medium,RC05
+T0267,"Hello, I cancelled my order two weeks ago and still have not received my refund of EUR 15.",Refund & Cancellation,Medium,RC05
+T0268,"I cancelled my order two weeks ago and still have not received my refund of Rs 2,450.",Refund & Cancellation,Medium,RC05
+T0269,"I cancelled my order two weeks ago and still have not received my refund of Rs 2,450. Thanks.",Refund & Cancellation,Medium,RC05
+T0270,i cancelled my order two weeks ago and still have not received my refund of rs 499.,Refund & Cancellation,Medium,RC05
+T0271,"Dear support, I was charged after I had already cancelled my plan. I want that money returned today or I will raise a dispute with my bank.",Refund & Cancellation,High,RC06
+T0272,"Dear support, I was charged after I had already cancelled my plan. I want that money returned today or I will raise a dispute with my bank. Thanks.",Refund & Cancellation,High,RC06
+T0273,"Good morning, I was charged after I had already cancelled my plan. I want that money returned today or I will raise a dispute with my bank. Regards, Asha",Refund & Cancellation,High,RC06
+T0274,"Hello, I was charged after I had already cancelled my plan. I want that money returned today or I will raise a dispute with my bank.",Refund & Cancellation,High,RC06
+T0275,"Hi team, I was charged after I had already cancelled my plan. I want that money returned today or I will raise a dispute with my bank.",Refund & Cancellation,High,RC06
+T0276,"I was charged after I had already cancelled my plan. I want that money returned today or I will raise a dispute with my bank. Regards, Asha",Refund & Cancellation,High,RC06
+T0277,"Hi team, Please stop my free trial from converting to a paid plan. Thanks.",Refund & Cancellation,Medium,RC07
+T0278,Please stop my free trial from converting to a paid plan. Please help.,Refund & Cancellation,Medium,RC07
+T0279,Please stop my free trial from converting to a paid plan. Thanks.,Refund & Cancellation,Medium,RC07
+T0280,"dear support, please stop my free trial from converting to a paid plan. please help.",Refund & Cancellation,Medium,RC07
+T0281,"hi team, please stop my free trial from converting to a paid plan. regards, asha",Refund & Cancellation,Medium,RC07
+T0282,please stop my free trial from converting to a paid plan. waiting for your reply.,Refund & Cancellation,Medium,RC07
+T0283,Can I exchange the shoes for a bigger size instead of returning them? Thanks.,Refund & Cancellation,Low,RC08
+T0284,"Good morning, Can I exchange the shoes for a bigger size instead of returning them? Please help.",Refund & Cancellation,Low,RC08
+T0285,"Hello, Can I exchange the shoes for a bigger size instead of returning them?",Refund & Cancellation,Low,RC08
+T0286,"Hello, Can I exchange the shoes for a bigger size instead of returning them? Regards, Asha",Refund & Cancellation,Low,RC08
+T0287,"Hi team, Can I exchange the shoes for a bigger size instead of returning them?",Refund & Cancellation,Low,RC08
+T0288,"Hi team, Can I exchange the shoes for a bigger size instead of returning them? Regards, Asha",Refund & Cancellation,Low,RC08
+T0289,"Hello, I returned the laptop three weeks ago and the refund of Rs 1,299 has still not arrived. It is a large amount and I need it urgently. Please help.",Refund & Cancellation,High,RC09
+T0290,"Hello, I returned the laptop three weeks ago and the refund of Rs 1,299 has still not arrived. It is a large amount and I need it urgently. Waiting for your reply.",Refund & Cancellation,High,RC09
+T0291,"Hi team, I returned the laptop three weeks ago and the refund of Rs 1,299 has still not arrived. It is a large amount and I need it urgently. Waiting for your reply.",Refund & Cancellation,High,RC09
+T0292,"I returned the laptop three weeks ago and the refund of Rs 1,299 has still not arrived. It is a large amount and I need it urgently.",Refund & Cancellation,High,RC09
+T0293,"I returned the laptop three weeks ago and the refund of Rs 499 has still not arrived. It is a large amount and I need it urgently. Regards, Asha",Refund & Cancellation,High,RC09
+T0294,"i returned the laptop three weeks ago and the refund of rs 1,299 has still not arrived. it is a large amount and i need it urgently. waiting for your reply.",Refund & Cancellation,High,RC09
+T0295,"Good morning, Is it possible to pause my membership for two months instead of cancelling? Please help.",Refund & Cancellation,Low,RC10
+T0296,"Good morning, Is it possible to pause my membership for two months instead of cancelling? Regards, Asha",Refund & Cancellation,Low,RC10
+T0297,"Hello, Is it possible to pause my membership for two months instead of cancelling? Thanks.",Refund & Cancellation,Low,RC10
+T0298,"Hi team, Is it possible to pause my membership for two months instead of cancelling?",Refund & Cancellation,Low,RC10
+T0299,"Hi team, Is it possible to pause my membership for two months instead of cancelling? Thanks.",Refund & Cancellation,Low,RC10
+T0300,Is it possible to pause my membership for two months instead of cancelling? Thanks.,Refund & Cancellation,Low,RC10
+T0301,"Dear support, Do you have a student discount?",General Inquiry,Low,GI01
+T0302,Do you have a student discount? Please help.,General Inquiry,Low,GI01
+T0303,Do you have a student discount? Thanks.,General Inquiry,Low,GI01
+T0304,"Good morning, Do you have a student discount? Regards, Asha",General Inquiry,Low,GI01
+T0305,"Hi team, Do you have a student discount?",General Inquiry,Low,GI01
+T0306,"Hi team, Do you have a student discount? Regards, Asha",General Inquiry,Low,GI01
+T0307,"Good morning, What are your support hours during public holidays? Waiting for your reply.",General Inquiry,Low,GI02
+T0308,"Hello, What are your support hours during public holidays? Please help",General Inquiry,Low,GI02
+T0309,"Hi team, What are your support hours during public holidays? Regards, Asha",General Inquiry,Low,GI02
+T0310,What are your support hours during public holidays?,General Inquiry,Low,GI02
+T0311,What are your support hours during public holidays? Please help.,General Inquiry,Low,GI02
+T0312,"What are your support hours during public holidays? Regards, Asha",General Inquiry,Low,GI02
+T0313,"Good morning, I want to give feedback: the new layout is easy to use.",General Inquiry,Low,GI03
+T0314,"Good morning, I want to give feedback: the new layout is easy to use. Regards, Asha",General Inquiry,Low,GI03
+T0315,"Hello, I want to give feedback: the new layout is easy to use",General Inquiry,Low,GI03
+T0316,"Hi team, I want to give feedback: the new layout is easy to use. Please help",General Inquiry,Low,GI03
+T0317,"Hi team, I want to give feedback: the new layout is easy to use. Please help.",General Inquiry,Low,GI03
+T0318,"hi team, i want to give feedback: the new layout is easy to use. thanks",General Inquiry,Low,GI03
+T0319,Can someone call me back about enterprise pricing for 200 users? Waiting for your reply.,General Inquiry,Medium,GI04
+T0320,"Dear support, Can someone call me back about enterprise pricing for 200 users? Regards, Asha",General Inquiry,Medium,GI04
+T0321,"Good morning, Can someone call me back about enterprise pricing for 200 users? Please help.",General Inquiry,Medium,GI04
+T0322,"Hello, Can someone call me back about enterprise pricing for 200 users?",General Inquiry,Medium,GI04
+T0323,"Hello, Can someone call me back about enterprise pricing for 200 users? Waiting for your reply.",General Inquiry,Medium,GI04
+T0324,"good morning, can someone call me back about enterprise pricing for 200 users? thanks.",General Inquiry,Medium,GI04
+T0325,"Good morning, I would like to partner with your company as a reseller. Waiting for your reply.",General Inquiry,Low,GI05
+T0326,"Hello, I would like to partner with your company as a reseller.",General Inquiry,Low,GI05
+T0327,"Hello, I would like to partner with your company as a reseller. Waiting for your reply",General Inquiry,Low,GI05
+T0328,"Hello, I would like to partner with your company as a reseller. Waiting for your reply.",General Inquiry,Low,GI05
+T0329,"Hi team, I would like to partner with your company as a reseller. Regards, Asha",General Inquiry,Low,GI05
+T0330,I would like to partner with your company as a reseller. Please help.,General Inquiry,Low,GI05
+T0331,"Hello, Where can I find your product documentation and tutorials?",General Inquiry,Low,GI06
+T0332,"Hello, Where can I find your product documentation and tutorials? Regards, Asha",General Inquiry,Low,GI06
+T0333,"Hello, Where can I find your product documentation and tutorials? Waiting for your reply.",General Inquiry,Low,GI06
+T0334,"Hi team, Where can I find your product documentation and tutorials? Please help.",General Inquiry,Low,GI06
+T0335,"Hi team, Where can I find your product documentation and tutorials? Regards, Asha",General Inquiry,Low,GI06
+T0336,"Hi team, Where can I find your product documentation and tutorials? Waiting for your reply.",General Inquiry,Low,GI06
+T0337,"Good morning, Your website has a spelling mistake on the pricing page",General Inquiry,Low,GI07
+T0338,"Good morning, Your website has a spelling mistake on the pricing page. Waiting for your reply",General Inquiry,Low,GI07
+T0339,"Hi team, Your website has a spelling mistake on the pricing page.",General Inquiry,Low,GI07
+T0340,"Hi team, Your website has a spelling mistake on the pricing page. Thanks",General Inquiry,Low,GI07
+T0341,Your website has a spelling mistake on the pricing page. Thanks.,General Inquiry,Low,GI07
+T0342,your website has a spelling mistake on the pricing page. waiting for your reply.,General Inquiry,Low,GI07
+T0343,"Hi team, Is the Planner available in Hindi?",General Inquiry,Low,GI08
+T0344,"Hi team, Is the Reports available in Hindi? Thanks.",General Inquiry,Low,GI08
+T0345,Is the Notes available in Hindi?,General Inquiry,Low,GI08
+T0346,Is the Planner available in Hindi?,General Inquiry,Low,GI08
+T0347,"Is the Planner available in Hindi? Regards, Asha",General Inquiry,Low,GI08
+T0348,"dear support, is the notes available in hindi? regards, asha",General Inquiry,Low,GI08
+T0349,"Good morning, We have a regulator audit tomorrow and need your security compliance certificate urgently. Please help.",General Inquiry,High,GI09
+T0350,"Good morning, We have a regulator audit tomorrow and need your security compliance certificate urgently. Regards, Asha",General Inquiry,High,GI09
+T0351,"Hello, We have a regulator audit tomorrow and need your security compliance certificate urgently. Please help",General Inquiry,High,GI09
+T0352,"Hello, We have a regulator audit tomorrow and need your security compliance certificate urgently. Waiting for your reply",General Inquiry,High,GI09
+T0353,"Hi team, We have a regulator audit tomorrow and need your security compliance certificate urgently. Waiting for your reply.",General Inquiry,High,GI09
+T0354,We have a regulator audit tomorrow and need your security compliance certificate urgently.,General Inquiry,High,GI09
+T0355,"Dear support, I need a quote for 50 licences by the end of the week. Waiting for your reply.",General Inquiry,Medium,GI10
+T0356,"Good morning, I need a quote for 50 licences by the end of the week. Please help.",General Inquiry,Medium,GI10
+T0357,"Hi team, I need a quote for 50 licences by the end of the week.",General Inquiry,Medium,GI10
+T0358,"Hi team, I need a quote for 50 licences by the end of the week. Waiting for your reply",General Inquiry,Medium,GI10
+T0359,"I need a quote for 50 licences by the end of the week. Regards, Asha",General Inquiry,Medium,GI10
+T0360,I need a quote for 50 licences by the end of the week. Waiting for your reply,General Inquiry,Medium,GI10
+T0361,Can you explain the difference between the Basic and Pro plans?,General Inquiry,Low,GI11
+T0362,"Good morning, Can you explain the difference between the Basic and Pro plans? Regards, Asha",General Inquiry,Low,GI11
+T0363,"Good morning, Can you explain the difference between the Basic and Pro plans? Thanks.",General Inquiry,Low,GI11
+T0364,"Hello, Can you explain the difference between the Basic and Pro plans?",General Inquiry,Low,GI11
+T0365,"dear support, can you explain the difference between the basic and pro plans? regards, asha",General Inquiry,Low,GI11
+T0366,"hi team, can you explain the difference between the basic and pro plans? waiting for your reply.",General Inquiry,Low,GI11

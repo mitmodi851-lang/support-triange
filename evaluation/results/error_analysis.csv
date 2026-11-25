@@ -1,0 +1,31 @@
+ticket_id,text,true_category,pred_category,category_confidence,true_urgency,pred_urgency,urgency_confidence,flagged_for_review
+E002,Need the GST invoice for our October purchase with our company registration number on it.,Billing & Payments,Billing & Payments,0.44,Low,Medium,0.426,True
+E004,My card keeps getting declined on your payment page. I tried three different cards.,Billing & Payments,Billing & Payments,0.641,Medium,High,0.373,True
+E005,Can I pay my annual fee in two instalments?,Billing & Payments,Account Access,0.267,Low,Medium,0.44,True
+E009,Our finance team wants to switch to invoicing instead of card payment from next quarter.,Billing & Payments,Refund & Cancellation,0.557,Low,Low,0.744,False
+E012,Is there a keyboard shortcut to switch between projects?,Technical Issue,General Inquiry,0.372,Low,Low,0.878,True
+E014,"The website looks broken on Safari, buttons overlap each other.",Technical Issue,General Inquiry,0.266,Low,Medium,0.498,True
+E015,I keep getting error code 503 on every page. Nothing loads for my entire office.,Technical Issue,Technical Issue,0.425,High,Medium,0.472,True
+E016,The charts on the analytics page display wrong numbers compared to the exported file.,Technical Issue,Technical Issue,0.603,Medium,Low,0.822,False
+E017,Can you add an option to change the font size in the editor?,Technical Issue,Account Access,0.319,Low,Low,0.868,True
+E021,I cannot log in. It says my account is disabled.,Account Access,Account Access,0.732,Medium,High,0.865,True
+E023,I got an email about a login from a device I do not recognise. Please lock my account.,Account Access,Account Access,0.535,High,Medium,0.649,False
+E026,My OTP never arrives on my mobile number so I am unable to sign in.,Account Access,Account Access,0.539,Medium,High,0.356,True
+E027,"Our new employee needs an account with admin rights, can you set it up sometime this week?",Account Access,Account Access,0.255,Low,Medium,0.399,True
+E032,Can you tell me when my parcel will arrive? I ordered last Thursday.,Shipping & Delivery,Shipping & Delivery,0.323,Low,Medium,0.639,True
+E034,The box was open and one of the two items is missing.,Shipping & Delivery,Refund & Cancellation,0.263,Medium,Medium,0.738,True
+E035,"I need to change my delivery pincode before dispatch, I ordered a minute ago.",Shipping & Delivery,Billing & Payments,0.278,Medium,Medium,0.47,True
+E036,A wedding gift I ordered for this Saturday has not been shipped yet. The event is in two days.,Shipping & Delivery,Shipping & Delivery,0.434,High,Medium,0.863,True
+E037,Do you deliver to remote villages in Himachal?,Shipping & Delivery,General Inquiry,0.476,Low,Low,0.935,False
+E039,"The medicine order I placed must reach me today, but it is stuck at the local hub.",Shipping & Delivery,Shipping & Delivery,0.449,High,Medium,0.362,True
+E044,Can I get a partial refund if I downgrade my plan mid-month?,Refund & Cancellation,Refund & Cancellation,0.502,Low,Medium,0.424,True
+E045,What documents do I need to return a damaged item?,Refund & Cancellation,Shipping & Delivery,0.361,Low,Low,0.613,True
+E046,You charged me again after I cancelled last month. Return the money today or I will file a chargeback.,Refund & Cancellation,Billing & Payments,0.32,High,High,0.533,True
+E047,How do I turn off auto-renew so I do not pay next year?,Refund & Cancellation,Billing & Payments,0.227,Low,Low,0.695,True
+E050,Is the cancellation fee refundable if I cancel within seven days?,Refund & Cancellation,General Inquiry,0.368,Low,Medium,0.484,True
+E053,Our legal team needs your data-protection policy document before tomorrow's meeting.,General Inquiry,Technical Issue,0.238,High,Low,0.471,True
+E054,I would like to speak with someone from sales about bulk pricing for 300 seats.,General Inquiry,General Inquiry,0.661,Medium,Low,0.687,False
+E061,Charged for an order I cancelled and I never got the item either.,Refund & Cancellation,Shipping & Delivery,0.544,Medium,Medium,0.769,False
+E063,"My subscription renewal failed because my account email is wrong, how do I fix it?",Account Access,Account Access,0.595,Medium,Low,0.505,False
+E064,Package says delivered but I want my money back.,Refund & Cancellation,Shipping & Delivery,0.296,Medium,Medium,0.732,True
+E066,Do I need to be logged in to see my invoices?,Billing & Payments,Account Access,0.33,Low,High,0.427,True

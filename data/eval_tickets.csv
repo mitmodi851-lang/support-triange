@@ -1,0 +1,67 @@
+ticket_id,text,category,urgency
+E001,"There is a charge on my card from you for 799 rupees and I never signed up for anything. Please look into it today, I think it is fraud.",Billing & Payments,High
+E002,"Need the GST invoice for our October purchase with our company registration number on it.",Billing & Payments,Low
+E003,"Why did the price of my plan go up this month? Nobody informed me.",Billing & Payments,Medium
+E004,"My card keeps getting declined on your payment page. I tried three different cards.",Billing & Payments,Medium
+E005,"Can I pay my annual fee in two instalments?",Billing & Payments,Low
+E006,"I was billed twice for the same month and my bank balance is now negative because of it. Fix this asap.",Billing & Payments,High
+E007,"Please email me the receipt for the payment made on the 12th.",Billing & Payments,Low
+E008,"The discount code SAVE20 was not applied on my invoice. Can you correct the total?",Billing & Payments,Medium
+E009,"Our finance team wants to switch to invoicing instead of card payment from next quarter.",Billing & Payments,Low
+E010,"Payment went through but the website still says unpaid and my service will be cut at midnight.",Billing & Payments,High
+E011,"Whenever I press the save button the screen freezes and I lose my work.",Technical Issue,Medium
+E012,"Is there a keyboard shortcut to switch between projects?",Technical Issue,Low
+E013,"Our integration with the webhook has stopped receiving events since the last deployment and customers are affected.",Technical Issue,High
+E014,"The website looks broken on Safari, buttons overlap each other.",Technical Issue,Low
+E015,"I keep getting error code 503 on every page. Nothing loads for my entire office.",Technical Issue,High
+E016,"The charts on the analytics page display wrong numbers compared to the exported file.",Technical Issue,Medium
+E017,"Can you add an option to change the font size in the editor?",Technical Issue,Low
+E018,"The app will not install on my Android 9 phone, it says package invalid.",Technical Issue,Medium
+E019,"Video calls drop after five minutes. I tried on wifi and mobile data.",Technical Issue,Medium
+E020,"All our scheduled reports failed to run overnight and the board meeting is this morning.",Technical Issue,High
+E021,"I cannot log in. It says my account is disabled.",Account Access,Medium
+E022,"How do I transfer ownership of my workspace to a colleague who is leaving?",Account Access,Low
+E023,"I got an email about a login from a device I do not recognise. Please lock my account.",Account Access,High
+E024,"The verification link in the sign-up email has expired. Please send a new one.",Account Access,Medium
+E025,"Please update the name on my profile from Raj to Rajesh.",Account Access,Low
+E026,"My OTP never arrives on my mobile number so I am unable to sign in.",Account Access,Medium
+E027,"Our new employee needs an account with admin rights, can you set it up sometime this week?",Account Access,Low
+E028,"I changed my phone number and now cannot get past the security check. I am locked out and have a client presentation in 30 minutes.",Account Access,High
+E029,"I do not remember which email I used to register. How can I find my account?",Account Access,Low
+E030,"Password reset keeps saying the token is invalid.",Account Access,Medium
+E031,"Tracking says out for delivery since three days ago but nothing has come.",Shipping & Delivery,Medium
+E032,"Can you tell me when my parcel will arrive? I ordered last Thursday.",Shipping & Delivery,Low
+E033,"The courier marked my order as delivered but I was not home and nobody has it.",Shipping & Delivery,Medium
+E034,"The box was open and one of the two items is missing.",Shipping & Delivery,Medium
+E035,"I need to change my delivery pincode before dispatch, I ordered a minute ago.",Shipping & Delivery,Medium
+E036,"A wedding gift I ordered for this Saturday has not been shipped yet. The event is in two days.",Shipping & Delivery,High
+E037,"Do you deliver to remote villages in Himachal?",Shipping & Delivery,Low
+E038,"Wrong size delivered, I ordered medium and received extra large.",Shipping & Delivery,Medium
+E039,"The medicine order I placed must reach me today, but it is stuck at the local hub.",Shipping & Delivery,High
+E040,"Is there a way to schedule a delivery for a weekend slot?",Shipping & Delivery,Low
+E041,"I want my money back for the course I bought yesterday, it is not what I expected.",Refund & Cancellation,Medium
+E042,"Please cancel my membership effective immediately.",Refund & Cancellation,Medium
+E043,"When will I receive the refund for my returned shoes? It has been 10 days.",Refund & Cancellation,Medium
+E044,"Can I get a partial refund if I downgrade my plan mid-month?",Refund & Cancellation,Low
+E045,"What documents do I need to return a damaged item?",Refund & Cancellation,Low
+E046,"You charged me again after I cancelled last month. Return the money today or I will file a chargeback.",Refund & Cancellation,High
+E047,"How do I turn off auto-renew so I do not pay next year?",Refund & Cancellation,Low
+E048,"I returned the order two weeks ago, tracking shows it reached your warehouse, but there is no refund. The amount is large and I need it urgently.",Refund & Cancellation,High
+E049,"Please cancel my order ORD-5521 before it ships.",Refund & Cancellation,Medium
+E050,"Is the cancellation fee refundable if I cancel within seven days?",Refund & Cancellation,Low
+E051,"Hello, I am a teacher. Is there an education discount available?",General Inquiry,Low
+E052,"What time do you open on Sundays?",General Inquiry,Low
+E053,"Our legal team needs your data-protection policy document before tomorrow's meeting.",General Inquiry,High
+E054,"I would like to speak with someone from sales about bulk pricing for 300 seats.",General Inquiry,Medium
+E055,"Great service from your team, just wanted to say thank you!",General Inquiry,Low
+E056,"Do you have an office in Pune?",General Inquiry,Low
+E057,"Could you tell me whether your product complies with ISO 27001?",General Inquiry,Low
+E058,"I am writing a college project on your company. Can someone share a brief history?",General Inquiry,Low
+E059,"Do you offer training sessions for new users?",General Inquiry,Low
+E060,"We need an official letter confirming our partnership by end of week for a tender.",General Inquiry,Medium
+E061,"Charged for an order I cancelled and I never got the item either.",Refund & Cancellation,Medium
+E062,"I cannot pay because the app crashes at the payment screen.",Technical Issue,Medium
+E063,"My subscription renewal failed because my account email is wrong, how do I fix it?",Account Access,Medium
+E064,"Package says delivered but I want my money back.",Refund & Cancellation,Medium
+E065,"The courier asked for extra payment at the door. Is that legitimate?",Shipping & Delivery,Medium
+E066,"Do I need to be logged in to see my invoices?",Billing & Payments,Low

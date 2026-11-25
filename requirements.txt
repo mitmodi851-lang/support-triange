@@ -1,0 +1,6 @@
+# Only what this project needs (the root requirements.txt covers all three)
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+streamlit>=1.36
+pytest>=8.0

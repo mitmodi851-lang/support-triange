@@ -1,0 +1,7 @@
+,pred: Billing & Payments,pred: Technical Issue,pred: Account Access,pred: Shipping & Delivery,pred: Refund & Cancellation,pred: General Inquiry
+true: Billing & Payments,8,0,2,0,1,0
+true: Technical Issue,0,8,1,0,0,2
+true: Account Access,0,0,11,0,0,0
+true: Shipping & Delivery,1,0,0,8,1,1
+true: Refund & Cancellation,2,0,0,3,6,1
+true: General Inquiry,0,1,0,0,0,9
